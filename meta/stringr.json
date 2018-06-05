@@ -1,0 +1,9 @@
+{
+  "name": "stringr",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/stringr.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/stringr.svg",
+  "description": "stringr: Simple, Consistent Wrappers for Common String Operations.",
+  "filename": "meta/stringr.json"
+}
